@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m Jorabek Hasanov  
+🎯 Head of Strategic Architecture | Full Stack Architect | AI-driven automation enthusiast  
 
-<!--
-**Jorabek-Hasanov/Jorabek-Hasanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
+- [Hello World](https://github.com/Jorabek-Hasanov/hello-world) — My first GitHub step  
+- [Calculator App](https://jorabek-hasanov.github.io/calculator-app/) — Day 1 project, live on GitHub Pages ✅  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Full Stack Development (JavaScript/TypeScript, Node.js, React, Next.js)  
+- CI/CD Automation, Self-healing Pipelines, System Design  
+- Strategic Brand Architecture & Operator-first Platforms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with me
+- 🌐 [Website](https://jorabekhasanov.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/jorabekhasanov)  
+- 🐦 [Twitter](https://twitter.com/jorabekhasanov)  

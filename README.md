@@ -45,3 +45,8 @@ My very first GitHub repository — the symbolic start of my developer journey.
 
 ## ✨ Philosophy
 > “I don’t just build systems — I architect **living, self-healing, operator-first ecosystems** that scale globally, empower reviewers, and eliminate errors at the root cause.”  
+![Jorabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorabek-Hasanov&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorabek-Hasanov&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jorabek-Hasanov&theme=radical)
+## 🎮 Gamified Progress
+![Progress](https://progress-bar.dev/33/?title=Level%201%20-%20Novice&width=500&color=brightgreen)

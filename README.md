@@ -30,3 +30,18 @@ My very first GitHub repository — the symbolic start of my developer journey.
 ---
 
 ## 🎮 Gamified Progress (XP System)
+- ✅ Day 1: Calculator App — *Completed*  
+- 🔜 Day 2: To-Do List App — *In Progress*  
+- 🎯 Goal: Native-like English fluency + Global SaaS rollout  
+
+---
+
+## 🌍 Connect with Me
+[![Website](https://img.shields.io/badge/Website-jorabekhasanov.com-blue?style=for-the-badge&logo=google-chrome)](https://jorabekhasanov.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorabekhasanov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jorabekhasanov)  
+[![Twitter](https://img.shields.io/badge/Twitter-@jorabekhasanov-blue?style=for-the-badge&logo=twitter)](https://twitter.com/jorabekhasanov)  
+
+---
+
+## ✨ Philosophy
+> “I don’t just build systems — I architect **living, self-healing, operator-first ecosystems** that scale globally, empower reviewers, and eliminate errors at the root cause.”  
